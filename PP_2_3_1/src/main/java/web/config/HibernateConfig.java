@@ -1,4 +1,4 @@
-package web.util;
+package web.config;
 
 
 import org.apache.tomcat.dbcp.dbcp2.BasicDataSource;
